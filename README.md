@@ -1,3 +1,4 @@
+#Exercise Recommender<br>
 A React-based application that helps users generate personalized workout plans based on their selected muscle groups and fitness goals.
 
 Features
