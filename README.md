@@ -14,10 +14,10 @@ Define Your Goal – Choose between strength, endurance, or hypertrophy.<br>
 Generate Your Workout – Receive a structured list of exercises with detailed instructions.<br>
 
 # Technology Stack<br>
-**React.js** – Frontend framework
-**Tailwind CSS** – Styling and layout
-**State Management** – Managed using React hooks (useState)
-**Component-Based Design** – Modular and reusable components
+**React.js** – Frontend framework <br>
+**Tailwind CSS** – Styling and layout <br>
+**State Management** – Managed using React hooks (useState) <br>
+**Component-Based Design** – Modular and reusable components <br>
 
 # Installation & Setup<br>
 1. **Clone the Repository**
